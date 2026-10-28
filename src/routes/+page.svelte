@@ -19,6 +19,6 @@
 
 <h1>Device Orientation</h1>
 
-<p>Alpha: {alpha}</p>
-<p>Beta: {beta}</p>
-<p>Gamma: {gamma}</p>
+<p>Alpha: {Math.round(alpha)} </p>
+<p>Beta: {Math.round(beta)}</p>
+<p>Gamma: {Math.round(gamma)}</p>
